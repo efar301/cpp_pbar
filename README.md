@@ -1,4 +1,4 @@
-### pbar
+# pbar
 
 pbar is inspired by the python library tqdm, where you can wrap an iterable and get a fancy animated progressbar in the terminal. 
 
